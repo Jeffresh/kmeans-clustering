@@ -1,5 +1,5 @@
 # kmeans clustering
-A classificator using the kmeans algorithm, using Iris data set:
+A classifier using the kmeans algorithm, using Iris data set:
 ```
 "Iris data set consists of 150 samples from each of three species of Iris (Iris setosa, Iris
 virginica and Iris versicolor). Four features were measured from each sample: the length
